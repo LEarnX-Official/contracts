@@ -1,3 +1,5 @@
+{
+"post":
 [
 {
 "id":1,
@@ -5,4 +7,8 @@
 "image":"https://drive.google.com/file/d/1vaxklXPomBvBKq7V57qPL2EMymJylA8F/view?usp=drivesdk",
 "name":"Rikon"
 }
- ]
+],
+ "profile": {
+ "name":"typicode"
+}
+}
