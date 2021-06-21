@@ -1,11 +1,7 @@
-{
-"posts": [
+[
 {
 "id":1,
 "title":"nft"
+  "image":"https://drive.google.com/file/d/1vaxklXPomBvBKq7V57qPL2EMymJylA8F/view?usp=drivesdk"
 }
-],
-"profile":{
-"name":"typicode"
-}
-}
+]
